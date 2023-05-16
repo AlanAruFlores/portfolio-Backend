@@ -24,8 +24,9 @@ import org.springframework.web.bind.annotation.RequestParam;
  * @author Usuario
  */
 @RestController
-@RequestMapping("/persona")
 @CrossOrigin(origins = "https://frontend-6ad62.web.app")
+@RequestMapping("/persona")
+
 public class PersonaController {
      @Autowired
      IPersonaService personaService;
