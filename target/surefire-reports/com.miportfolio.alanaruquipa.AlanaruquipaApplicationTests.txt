@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.miportfolio.alanaruquipa.AlanaruquipaApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.763 s - in com.miportfolio.alanaruquipa.AlanaruquipaApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.96 s - in com.miportfolio.alanaruquipa.AlanaruquipaApplicationTests
