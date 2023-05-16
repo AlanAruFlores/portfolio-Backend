@@ -9,7 +9,6 @@ import com.miportfolio.alanaruquipa.dto.DtoEducacion;
 import com.miportfolio.alanaruquipa.entity.Educacion;
 import com.miportfolio.alanaruquipa.interfaces.IEducacionService;
 import com.miportfolio.alanaruquipa.security.controller.Message;
-import com.oracle.webservices.internal.api.databinding.Databinding;
 import java.util.List;
 import org.apache.logging.log4j.util.Strings;
 import org.springframework.beans.factory.annotation.Autowired;
