@@ -27,7 +27,7 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @RestController
 @RequestMapping("/ss")
-@CrossOrigin(origins="http://localhost:4200")
+@CrossOrigin(origins="https://frontend-6ad62.web.app")
 public class SoftSkillController {
     @Autowired
     ISoftSkillService service;
