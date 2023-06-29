@@ -38,8 +38,9 @@ import org.springframework.web.bind.annotation.RestController;
  * @author Usuario
  */
 @RestController
-@RequestMapping("/auth")
 @CrossOrigin
+@RequestMapping("/auth")
+
 //@CrossOrigin(origins = "http://localhost:4200/")
 public class AuthController {
     

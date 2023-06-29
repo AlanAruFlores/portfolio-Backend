@@ -26,8 +26,9 @@ import org.springframework.web.bind.annotation.RestController;
  * @author Usuario
  */
 @RestController
-@RequestMapping("/hs")
 @CrossOrigin(origins="https://frontend-6ad62.web.app")
+@RequestMapping("/hs")
+
 //@CrossOrigin(origins = "http://localhost:4200")
 
 public class HardSkillController {
